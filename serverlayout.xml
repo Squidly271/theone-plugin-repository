@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg</PluginURL>
+<PluginAuthor>theone</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Server Layout</Name>
+<Description>
+The Server Layout plugin enables you to view the devices (HDDs, CD/DVD ROMS) in a physical manner.
+You can configure the server’s disk tray layout, assign each storage device to a drive tray and enter additional data manually (Purchase Date, etc…)
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=40223.0</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/theone-plugin-repository/master/serverlayout.png</Icon>
+</Containers>
