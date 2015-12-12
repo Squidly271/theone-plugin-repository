@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/theone11/virtualbox_plugin/master/virtualbox.plg</PluginURL>
+<PluginAuthor>theone</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>Virtual Box</Name>
+<Description>
+An x86 virtualization software package developed by Sun Microsystems
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=25715.0</Support>
+<Icon>https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png</Icon>
+</Containers>
