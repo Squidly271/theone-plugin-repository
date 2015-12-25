@@ -11,5 +11,5 @@ If you are low on memory and would like to add a Swap File to your unRAID server
 The plugin enables creation/starting/stopping/changing of a Swap File on your unRAID server.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=25816.0</Support>
-<Icon>https://raw.githubusercontent.com/Squidly271/theone-plugin-repository/master/serverlayout.png</Icon>
+<Icon>https://raw.githubusercontent.com/Squidly271/theone-plugin-repository/master/swapfile.png</Icon>
 </Containers>
