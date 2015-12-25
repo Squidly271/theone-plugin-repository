@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/theone11/swapfile_plugin/master/swapfile.plg</PluginURL>
+<PluginAuthor>theone</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>SwapFile</Name>
+<Description>
+If you are low on memory and would like to add a Swap File to your unRAID server this plugin makes it simpler.
+The plugin enables creation/starting/stopping/changing of a Swap File on your unRAID server.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=25816.0</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/theone-plugin-repository/master/serverlayout.png</Icon>
+</Containers>
